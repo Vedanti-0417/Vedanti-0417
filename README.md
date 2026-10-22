@@ -68,6 +68,11 @@ Consistency    [Always ON]
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedanti-0417&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
 </p>
 
+<p align="center">
+  <img src="./contrib-heatmap.svg"
+       alt="Vedanti's GitHub Contribution Heatmap"
+       width="100%" />
+</p>
 ---
 
 ### `$ echo "Thanks for visiting!"`
