@@ -27,6 +27,12 @@ Hey! I'm Vedanti, a Computer Science Engineering student learning to build usefu
 - Zomato Clone
 - Wanderlust
 
+  
+<p align="center">
+  <img src="./info-card.svg" alt="Vedanti's animated terminal profile card" width="600" />
+</p>
+
+
 ### `$ echo "Thanks for visiting!"`
 
 Thanks for stopping by! 🤍
