@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Vedanti-0417/Vedanti-0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `vedanti@github:~$ whoami`
 
-Here are some ideas to get you started:
+```text
+╭──────────────────────────────────────╮
+│  Hello, World! 👋                    │
+│                                      │
+│  Name     : Vedanti Thosar           │
+│  Role     : CSE Student              │
+│  Learning : React.js | Java | DSA    │
+│  Focus    : Web Development           │
+│  Status   : Building my future...    │
+╰──────────────────────────────────────╯
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `$ cat about.txt`
+
+Hey! I'm Vedanti, a Computer Science Engineering student learning to build useful things with code.
+
+- 🌱 Currently learning React.js and Java
+- 💻 Exploring web development and DSA
+- 🚀 Building projects and improving every day
+- 🎯 Working towards my software developer goals
+
+### `$ ls projects/`
+
+- Zomato Clone
+- Wanderlust
+
+### `$ echo "Thanks for visiting!"`
+
+Thanks for stopping by! 🤍
