@@ -5,7 +5,6 @@
   </a>
 </p>
 
-
 # `vedanti@github:~$ whoami`
 
 ```text
@@ -15,13 +14,13 @@
 │  Name     : Vedanti Thosar               │
 │  Role     : Third Year CSE Student       │
 │  Learning : React.js | Java | DSA        │
-│  Focus    : Frontend & Web Development  │
+│  Focus    : Frontend & Web Development   │
 │  Status   : Building my future...        │
 ╰──────────────────────────────────────────╯
 ```
 
 <p align="center">
-  <img src="./vedanti-ascii.svg" alt="My animated ASCII portrait" width="400" />
+  <img src="./vedanti-ascii.svg" alt="My ASCII portrait" width="400" />
 </p>
 
 <p align="center">
@@ -54,17 +53,29 @@ Web Dev        [Building]
 Consistency    [Always ON]
 ```
 
+---
+
+### `$ git stats --profile`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedanti-0417&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedanti-0417&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+### `$ git log --graph --oneline`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedanti-0417&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
+</p>
+
+---
+
 ### `$ echo "Thanks for visiting!"`
 
-Thanks for stopping by! 🤍
+<p align="center">
+  Thanks for stopping by! 🤍
+</p>
 
 <p align="center">
   <i>Keep learning. Keep building. Keep going. ✨</i>
 </p>
-
-
----
-
-
----
-
