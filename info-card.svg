@@ -1,38 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="540" height="377"
+    viewBox="0 0 540 377">
+<rect width="100%" height="100%" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect width="100%" height="42" rx="14" fill="#161b22"/>
+<rect y="28" width="100%" height="14" fill="#161b22"/>
+<circle cx="22" cy="21" r="5" fill="#ff5f56"/>
+<circle cx="40" cy="21" r="5" fill="#ffbd2e"/>
+<circle cx="58" cy="21" r="5" fill="#27c93f"/>
+<text x="82" y="26" fill="#c9d1d9" font-family="monospace" font-size="13">vedanti@github: ~</text>
+<text x="22" y="76" fill="#58a6ff" font-family="monospace" font-size="18" font-weight="bold">whoami</text>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310">
-  <rect width="600" height="310" rx="14" fill="#0d1117" stroke="#30363d"/>
-
-  <rect width="600" height="42" rx="14" fill="#161b22"/>
-  <path d="M0 28 H600 V42 H0Z" fill="#161b22"/>
-
-  <circle cx="22" cy="21" r="6" fill="#ff5f56"/>
-  <circle cx="42" cy="21" r="6" fill="#ffbd2e"/>
-  <circle cx="62" cy="21" r="6" fill="#27c93f"/>
-
-  <text x="300" y="26" text-anchor="middle"
-        font-family="monospace" font-size="13" fill="#c9d1d9">
-    vedanti@github: ~
-  </text>
-
-  <g font-family="monospace" font-size="16">
-    <text x="25" y="78" fill="#39d353">$ whoami</text>
-    <text x="25" y="108" fill="#f0f6fc">Vedanti Thosar</text>
-
-    <text x="25" y="145" fill="#39d353">$ role</text>
-    <text x="180" y="145" fill="#c9d1d9">CSE Student</text>
-
-    <text x="25" y="178" fill="#39d353">$ learning</text>
-    <text x="180" y="178" fill="#c9d1d9">React.js, Java, DSA</text>
-
-    <text x="25" y="211" fill="#39d353">$ focus</text>
-    <text x="180" y="211" fill="#c9d1d9">Web Development</text>
-
-    <text x="25" y="254" fill="#39d353">$ status</text>
-    <text x="180" y="254" fill="#c9d1d9">Building my future...</text>
-
-    <rect x="25" y="272" width="10" height="18" fill="#39d353">
+    <g opacity="0">
       <animate attributeName="opacity"
-               values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
-  </g>
+        from="0" to="1"
+        begin="0.0s" dur="0.5s"
+        fill="freeze"/>
+      <text x="24" y="112"
+        fill="#7ee787"
+        font-family="monospace" font-size="14">
+        Name:
+      </text>
+      <text x="150" y="112"
+        fill="#c9d1d9"
+        font-family="monospace" font-size="14">
+        Vedanti Thosar
+      </text>
+    </g>
+    
+
+    <g opacity="0">
+      <animate attributeName="opacity"
+        from="0" to="1"
+        begin="0.25s" dur="0.5s"
+        fill="freeze"/>
+      <text x="24" y="154"
+        fill="#7ee787"
+        font-family="monospace" font-size="14">
+        Role:
+      </text>
+      <text x="150" y="154"
+        fill="#c9d1d9"
+        font-family="monospace" font-size="14">
+        Third Year B.Tech CSE
+      </text>
+    </g>
+    
+
+    <g opacity="0">
+      <animate attributeName="opacity"
+        from="0" to="1"
+        begin="0.5s" dur="0.5s"
+        fill="freeze"/>
+      <text x="24" y="196"
+        fill="#7ee787"
+        font-family="monospace" font-size="14">
+        Learning:
+      </text>
+      <text x="150" y="196"
+        fill="#c9d1d9"
+        font-family="monospace" font-size="14">
+        React.js | Java | DSA
+      </text>
+    </g>
+    
+
+    <g opacity="0">
+      <animate attributeName="opacity"
+        from="0" to="1"
+        begin="0.75s" dur="0.5s"
+        fill="freeze"/>
+      <text x="24" y="238"
+        fill="#7ee787"
+        font-family="monospace" font-size="14">
+        Projects:
+      </text>
+      <text x="150" y="238"
+        fill="#c9d1d9"
+        font-family="monospace" font-size="14">
+        Zomato Clone | Wanderlust
+      </text>
+    </g>
+    
+
+    <g opacity="0">
+      <animate attributeName="opacity"
+        from="0" to="1"
+        begin="1.0s" dur="0.5s"
+        fill="freeze"/>
+      <text x="24" y="280"
+        fill="#7ee787"
+        font-family="monospace" font-size="14">
+        Goal:
+      </text>
+      <text x="150" y="280"
+        fill="#c9d1d9"
+        font-family="monospace" font-size="14">
+        Frontend Developer
+      </text>
+    </g>
+    
+
+    <g opacity="0">
+      <animate attributeName="opacity"
+        from="0" to="1"
+        begin="1.25s" dur="0.5s"
+        fill="freeze"/>
+      <text x="24" y="322"
+        fill="#7ee787"
+        font-family="monospace" font-size="14">
+        Status:
+      </text>
+      <text x="150" y="322"
+        fill="#c9d1d9"
+        font-family="monospace" font-size="14">
+        Building &amp; Learning
+      </text>
+    </g>
+    
+<text x="24" y="359" fill="#8b949e" font-family="monospace" font-size="12">$ always_learning --keep-going</text>
 </svg>
