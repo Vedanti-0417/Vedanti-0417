@@ -1,4 +1,11 @@
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78FB3&center=true&vCenter=true&width=600&height=50&lines=Hey!+I'm+Vedanti+Thosar+%F0%9F%91%8B;CSE+Student+%F0%9F%92%BB;Frontend+Developer+in+Progress+%E2%9C%A8;Learning+Java+%26+DSA+%F0%9F%9A%80;Building+my+future+one+line+at+a+time+%F0%9F%A4%8D" alt="Typing SVG" />
+  </a>
+</p>
+
+
 # `vedanti@github:~$ whoami`
 
 ```text
