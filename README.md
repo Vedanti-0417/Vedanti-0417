@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78FB3&center=true&vCenter=true&width=600&height=50&lines=Hey!+I'm+Vedanti+Thosar+%F0%9F%91%8B;CSE+Student+%F0%9F%92%BB;Frontend+Developer+in+Progress+%E2%9C%A8;Learning+Java+%26+DSA+%F0%9F%9A%80;Building+my+future+one+line+at+a+time+%F0%9F%A4%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78FB3&center=true&vCenter=true&width=600&height=50&lines=Hey!+I'm+Vedanti+Thosar+%F0%9F%91%8B;CSE+Student+%F0%9F%92%BB;Frontend+Developer+in+Progress+%E2%9C%A8;Learning+Java+%26+DSA+%F0%9F%9A%80;Building+my+future+one+line+at+a+time+%F0%9F%A4%8D" alt="Typing introduction" />
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 
 ```text
 ╭──────────────────────────────────────────╮
-│  Hello, World! 👋                         │
+│  Hello, World! 👋                        │
 │                                          │
 │  Name     : Vedanti Thosar               │
 │  Role     : Third Year CSE Student       │
@@ -19,13 +19,28 @@
 ╰──────────────────────────────────────────╯
 ```
 
-<p align="center">
-  <img src="./vedanti-ascii.svg" alt="My ASCII portrait" width="400" />
-</p>
+---
+
+### `$ git log --graph --contributions`
 
 <p align="center">
-  <img src="./info-card.svg" alt="Vedanti's animated terminal profile card" width="600" />
+  <img src="./contrib-heatmap.svg" alt="GitHub contribution heatmap" width="100%" />
 </p>
+
+---
+
+### `$ whoami --visual`
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./vedanti-ascii.svg" alt="Vedanti's ASCII portrait" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="./info-card.svg" alt="Vedanti's terminal profile card" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -65,14 +80,9 @@ Consistency    [Always ON]
 ### `$ git log --graph --oneline`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedanti-0417&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedanti-0417&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./contrib-heatmap.svg"
-       alt="Vedanti's GitHub Contribution Heatmap"
-       width="100%" />
-</p>
 ---
 
 ### `$ echo "Thanks for visiting!"`
