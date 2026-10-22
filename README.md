@@ -68,18 +68,3 @@ Thanks for stopping by! 🤍
 
 ---
 
-### `$ git log --graph --oneline`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedanti-0417&theme=tokyo-night&hide_border=true&area=true" alt="Vedanti's GitHub Contribution Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <i>Every commit is a step forward. 🌱</i>
-</p>
-
-
-<p align="center">
-  <i>Every commit is a step forward. 🌱</i>
-</p>
-
