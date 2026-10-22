@@ -83,6 +83,20 @@ Consistency    [Always ON]
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedanti-0417&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
 </p>
 
+### `$ connect --with vedanti`
+
+<p align="center">
+  <a href="https://github.com/Vedanti-0417">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/vedanti-thosar10/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to learning, collaboration, and new opportunities! 🚀</i>
+</p>
 ---
 
 ### `$ echo "Thanks for visiting!"`
