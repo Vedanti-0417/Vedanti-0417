@@ -77,11 +77,6 @@ Consistency    [Always ON]
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedanti-0417&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
-### `$ git log --graph --oneline`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedanti-0417&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
-</p>
 
 ### `$ connect --with vedanti`
 
