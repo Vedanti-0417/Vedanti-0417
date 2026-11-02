@@ -68,7 +68,7 @@
 <rect x="122" y="122" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-20 - Contribution level 0</title></rect>
 <rect x="136" y="38" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-21 - Contribution level 0</title></rect>
 <rect x="136" y="52" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-22 - Contribution level 0</title></rect>
-<rect x="136" y="66" width="11" height="11" rx="2" fill="#26a641"><title>2025-12-23 - Contribution level 3</title></rect>
+<rect x="136" y="66" width="11" height="11" rx="2" fill="#006d32"><title>2025-12-23 - Contribution level 2</title></rect>
 <rect x="136" y="80" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-24 - Contribution level 0</title></rect>
 <rect x="136" y="94" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-25 - Contribution level 0</title></rect>
 <rect x="136" y="108" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-26 - Contribution level 0</title></rect>
@@ -212,12 +212,12 @@
 <rect x="416" y="80" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-13 - Contribution level 0</title></rect>
 <rect x="416" y="94" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-14 - Contribution level 0</title></rect>
 <rect x="416" y="108" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-15 - Contribution level 0</title></rect>
-<rect x="416" y="122" width="11" height="11" rx="2" fill="#26a641"><title>2026-05-16 - Contribution level 3</title></rect>
+<rect x="416" y="122" width="11" height="11" rx="2" fill="#006d32"><title>2026-05-16 - Contribution level 2</title></rect>
 <rect x="430" y="38" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-17 - Contribution level 0</title></rect>
 <rect x="430" y="52" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-18 - Contribution level 0</title></rect>
-<rect x="430" y="66" width="11" height="11" rx="2" fill="#26a641"><title>2026-05-19 - Contribution level 3</title></rect>
+<rect x="430" y="66" width="11" height="11" rx="2" fill="#006d32"><title>2026-05-19 - Contribution level 2</title></rect>
 <rect x="430" y="80" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-20 - Contribution level 0</title></rect>
-<rect x="430" y="94" width="11" height="11" rx="2" fill="#39d353"><title>2026-05-21 - Contribution level 4</title></rect>
+<rect x="430" y="94" width="11" height="11" rx="2" fill="#26a641"><title>2026-05-21 - Contribution level 3</title></rect>
 <rect x="430" y="108" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-22 - Contribution level 0</title></rect>
 <rect x="430" y="122" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-23 - Contribution level 0</title></rect>
 <rect x="444" y="38" width="11" height="11" rx="2" fill="#39d353"><title>2026-05-24 - Contribution level 4</title></rect>
@@ -235,13 +235,13 @@
 <rect x="458" y="108" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-05 - Contribution level 0</title></rect>
 <rect x="458" y="122" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-06 - Contribution level 0</title></rect>
 <rect x="472" y="38" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-07 - Contribution level 0</title></rect>
-<rect x="472" y="52" width="11" height="11" rx="2" fill="#006d32"><title>2026-06-08 - Contribution level 2</title></rect>
+<rect x="472" y="52" width="11" height="11" rx="2" fill="#0e4429"><title>2026-06-08 - Contribution level 1</title></rect>
 <rect x="472" y="66" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-09 - Contribution level 0</title></rect>
 <rect x="472" y="80" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-10 - Contribution level 0</title></rect>
 <rect x="472" y="94" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-11 - Contribution level 0</title></rect>
 <rect x="472" y="108" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-12 - Contribution level 0</title></rect>
 <rect x="472" y="122" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-13 - Contribution level 0</title></rect>
-<rect x="486" y="38" width="11" height="11" rx="2" fill="#26a641"><title>2026-06-14 - Contribution level 3</title></rect>
+<rect x="486" y="38" width="11" height="11" rx="2" fill="#006d32"><title>2026-06-14 - Contribution level 2</title></rect>
 <rect x="486" y="52" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-15 - Contribution level 0</title></rect>
 <rect x="486" y="66" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-16 - Contribution level 0</title></rect>
 <rect x="486" y="80" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-17 - Contribution level 0</title></rect>
@@ -257,7 +257,7 @@
 <rect x="500" y="122" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-27 - Contribution level 0</title></rect>
 <rect x="514" y="38" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-28 - Contribution level 0</title></rect>
 <rect x="514" y="52" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-29 - Contribution level 0</title></rect>
-<rect x="514" y="66" width="11" height="11" rx="2" fill="#26a641"><title>2026-06-30 - Contribution level 3</title></rect>
+<rect x="514" y="66" width="11" height="11" rx="2" fill="#006d32"><title>2026-06-30 - Contribution level 2</title></rect>
 <rect x="514" y="80" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-01 - Contribution level 0</title></rect>
 <rect x="514" y="94" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-02 - Contribution level 0</title></rect>
 <rect x="514" y="108" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-03 - Contribution level 0</title></rect>
@@ -319,7 +319,7 @@
 <rect x="626" y="108" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-28 - Contribution level 0</title></rect>
 <rect x="626" y="122" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-29 - Contribution level 0</title></rect>
 <rect x="640" y="38" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-30 - Contribution level 0</title></rect>
-<rect x="640" y="52" width="11" height="11" rx="2" fill="#006d32"><title>2026-08-31 - Contribution level 2</title></rect>
+<rect x="640" y="52" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-31 - Contribution level 1</title></rect>
 <rect x="640" y="66" width="11" height="11" rx="2" fill="#161b22"><title>2026-09-01 - Contribution level 0</title></rect>
 <rect x="640" y="80" width="11" height="11" rx="2" fill="#161b22"><title>2026-09-02 - Contribution level 0</title></rect>
 <rect x="640" y="94" width="11" height="11" rx="2" fill="#161b22"><title>2026-09-03 - Contribution level 0</title></rect>
@@ -335,7 +335,7 @@
 <rect x="668" y="38" width="11" height="11" rx="2" fill="#161b22"><title>2026-09-13 - Contribution level 0</title></rect>
 <rect x="668" y="52" width="11" height="11" rx="2" fill="#161b22"><title>2026-09-14 - Contribution level 0</title></rect>
 <rect x="668" y="66" width="11" height="11" rx="2" fill="#161b22"><title>2026-09-15 - Contribution level 0</title></rect>
-<rect x="668" y="80" width="11" height="11" rx="2" fill="#26a641"><title>2026-09-16 - Contribution level 3</title></rect>
+<rect x="668" y="80" width="11" height="11" rx="2" fill="#006d32"><title>2026-09-16 - Contribution level 2</title></rect>
 <rect x="668" y="94" width="11" height="11" rx="2" fill="#161b22"><title>2026-09-17 - Contribution level 0</title></rect>
 <rect x="668" y="108" width="11" height="11" rx="2" fill="#161b22"><title>2026-09-18 - Contribution level 0</title></rect>
 <rect x="668" y="122" width="11" height="11" rx="2" fill="#161b22"><title>2026-09-19 - Contribution level 0</title></rect>
@@ -372,7 +372,7 @@
 <rect x="738" y="66" width="11" height="11" rx="2" fill="#161b22"><title>2026-10-20 - Contribution level 0</title></rect>
 <rect x="738" y="80" width="11" height="11" rx="2" fill="#161b22"><title>2026-10-21 - Contribution level 0</title></rect>
 <rect x="738" y="94" width="11" height="11" rx="2" fill="#39d353"><title>2026-10-22 - Contribution level 4</title></rect>
-<rect x="738" y="108" width="11" height="11" rx="2" fill="#26a641"><title>2026-10-23 - Contribution level 3</title></rect>
+<rect x="738" y="108" width="11" height="11" rx="2" fill="#006d32"><title>2026-10-23 - Contribution level 2</title></rect>
 <rect x="738" y="122" width="11" height="11" rx="2" fill="#161b22"><title>2026-10-24 - Contribution level 0</title></rect>
 <rect x="752" y="38" width="11" height="11" rx="2" fill="#161b22"><title>2026-10-25 - Contribution level 0</title></rect>
 <rect x="752" y="52" width="11" height="11" rx="2" fill="#161b22"><title>2026-10-26 - Contribution level 0</title></rect>
@@ -382,4 +382,5 @@
 <rect x="752" y="108" width="11" height="11" rx="2" fill="#161b22"><title>2026-10-30 - Contribution level 0</title></rect>
 <rect x="752" y="122" width="11" height="11" rx="2" fill="#161b22"><title>2026-10-31 - Contribution level 0</title></rect>
 <rect x="766" y="38" width="11" height="11" rx="2" fill="#161b22"><title>2026-11-01 - Contribution level 0</title></rect>
+<rect x="766" y="52" width="11" height="11" rx="2" fill="#161b22"><title>2026-11-02 - Contribution level 0</title></rect>
 </svg>
